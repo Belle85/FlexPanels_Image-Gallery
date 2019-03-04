@@ -3,7 +3,7 @@ Day#5 Of 30 Day Vanilla JS Coding Challenge: Flex Panels Image Gallery
 
 
 
-![Homepage Image]
+![Homepage Image](https://github.com/Belle85/FlexPanels_Image-Gallery/blob/master/assets/image/Homepage%20picture.PNG)
 
 ### **#JavaScript30**
 30 Day Vanilla JS Coding Challenge : https://javascript30.com/
@@ -11,8 +11,6 @@ Day#5 Of 30 Day Vanilla JS Coding Challenge: Flex Panels Image Gallery
 Build 30 things in **30** days. 
 
 **NO** FRAMEWORKS x **NO** COMPILERS x **NO** LIBRAIRIES x **NO** BOILERPLATES
-
-**Starting date :** *10/28/2018*
 
 * **Day 1:** Drum Kit ~ https://github.com/Belle85/Drum_Kit
 * **Day 2:** JS Clock ~ https://github.com/Belle85/JS_Clock
